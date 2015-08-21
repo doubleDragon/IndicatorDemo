@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IndicatorView">
+
+        <attr name="image" format="reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="android:text" />
+        <attr name="android:color"/>
+
+    </declare-styleable>
+
+</resources>
