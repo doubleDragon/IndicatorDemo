@@ -2,14 +2,16 @@
 Custom tab indicator view
 
 ## Attr
-`<declare-styleable name="IndicatorView">
+`
+    <declare-styleable name="IndicatorView">
 
         <attr name="image" format="reference"/>
         <attr name="textSize" format="dimension"/>
         <attr name="android:text" />
         <attr name="android:color"/>
 
-    </declare-styleable>`
+    </declare-styleable>
+`
 
 ## Version 1.0.0
 ![image](https://github.com/doubleDragon/IndicatorDemo/raw/master/screenshots/indicator.png)
