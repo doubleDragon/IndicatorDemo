@@ -2,7 +2,7 @@
 Custom tab indicator view
 
 ## Attr
-`
+```xml
     <declare-styleable name="IndicatorView">
 
         <attr name="image" format="reference"/>
@@ -11,8 +11,7 @@ Custom tab indicator view
         <attr name="android:color"/>
 
     </declare-styleable>
-`
-
+```
 ## Version 1.0.0
 ![image](https://github.com/doubleDragon/IndicatorDemo/raw/master/screenshots/indicator.png)
 License
