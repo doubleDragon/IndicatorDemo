@@ -12,6 +12,13 @@ Custom tab indicator view
 
     </declare-styleable>
 ```
+## Usage
+```java
+IndicatorView indicator = (IndicatorVIew)findViewById(R.id.xxx);
+indicatorView.setSelected(true);//selected state
+indicatorView.setSelected(false);//unselected state
+```
+
 ## Version 1.0.0
 ![image](https://github.com/doubleDragon/IndicatorDemo/raw/master/screenshots/indicator.png)
 License
