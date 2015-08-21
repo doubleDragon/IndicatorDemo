@@ -1,6 +1,17 @@
 # IndicatorDemo
 Custom tab indicator view
-# Version 1.0.0
+
+## Attr
+`<declare-styleable name="IndicatorView">
+
+        <attr name="image" format="reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="android:text" />
+        <attr name="android:color"/>
+
+    </declare-styleable>`
+
+## Version 1.0.0
 ![image](https://github.com/doubleDragon/IndicatorDemo/raw/master/screenshots/indicator.png)
 License
 ============
